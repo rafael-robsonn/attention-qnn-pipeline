@@ -1,0 +1,11 @@
+polars
+pyarrow
+numpy
+torch
+scikit-learn
+altair
+plotly
+plotnine
+seaborn
+matplotlib
+pandas
